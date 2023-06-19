@@ -14,11 +14,12 @@
   max-width: 1400px;
   margin-left: auto;
   margin-right: auto;
-  overflow-x: auto ;
+  overflow-x: auto;
 }
 
 .bicicletas__lista li {
-  min-height: 280px;
+  flex: 1;
+  min-width: 280px;
 }
 
 .bicicletas__lista a {
