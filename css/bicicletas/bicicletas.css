@@ -52,6 +52,10 @@
   margin-bottom: 8px;
 }
 
+.bicicletas__conteudo h2:hover:before {
+  width: 24px;
+}
+
 .bicicletas__conteudo p {
   margin-bottom: 32px;
 }
